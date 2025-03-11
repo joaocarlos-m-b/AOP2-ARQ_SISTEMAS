@@ -112,10 +112,7 @@
         <mxCell id="-75UwoDDomG-bNRoVkYs-36" value="O usuário ver suas informações atualizadas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="80" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Uh8u_s1Oc78r0PNswdwn-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Uh8u_s1Oc78r0PNswdwn-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AOP2 - ARQ SISTEMAS&lt;/h1&gt;&lt;p&gt;Autor: João Carlos Motta Barbosa&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Uh8u_s1Oc78r0PNswdwn-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AOP2 - ARQ SISTEMAS&lt;/h1&gt;&lt;p&gt;Autor: João Carlos Motta Barbosa&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
